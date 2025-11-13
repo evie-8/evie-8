@@ -6,11 +6,11 @@
 
 - 🔭 I'm currently working on **Projects that blend machine learning and web technologies.  From refining data pipelines to building intuitive interfaces that make complex tools easier to use.**
 
-- 🌱 I'm currently learning **Open-source projects that use data, design, or language to make tech more inclusive and accessible.**
+- 🌱 I'm currently learning **open-source projects that use data, design, or language to make tech more inclusive and accessible.**
 
-- 👯 I'm looking to collaborate on **Fun, challenging projects where code and creativity meet**
+- 👯 I'm looking to collaborate on **fun, challenging projects where code and creativity meet**
 
-- 🤝 I'm looking for help with **Leveling up system design and thinking bigger in architecture**
+- 🤝 I'm looking for help with **leveling up system design and thinking bigger in architecture**
 
 - 💬 Ask me about **React, Python and Next.JS**
 
